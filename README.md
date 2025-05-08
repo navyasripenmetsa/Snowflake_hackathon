@@ -1,1 +1,6 @@
-# Snowflake_hackathon
+Snowflake_hackathon
+***
+# IndiaSync
+Where Culture Meets Calendar 
+***
+A web Application Coming Soon that Promotes Indian Cultural Art and Heritage

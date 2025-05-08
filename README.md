@@ -1,4 +1,4 @@
-Snowflake_hackathon
+SNOWFLAKE HACKATHON
 ***
 # IndiaSync
 Where Culture Meets Calendar 
